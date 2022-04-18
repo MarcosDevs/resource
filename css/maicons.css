@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'maicons';
-  src:  url('../fonts/maicons.eot?c9nlkl');
-  src:  url('../fonts/maicons.eot?c9nlkl#iefix') format('embedded-opentype'),
-    url('../fonts/maicons.ttf?c9nlkl') format('truetype'),
-    url('../fonts/maicons.woff?c9nlkl') format('woff'),
-    url('../fonts/maicons.svg?c9nlkl#maicons') format('svg');
+  src:  url('https://marcosdevs.github.io/resource/fonts/maicons.eot?c9nlkl');
+  src:  url('https://marcosdevs.github.io/resource/fonts/maicons.eot?c9nlkl#iefix') format('embedded-opentype'),
+    url('https://marcosdevs.github.io/resource/fonts/maicons.ttf?c9nlkl') format('truetype'),
+    url('https://marcosdevs.github.io/resource/fonts/maicons.woff?c9nlkl') format('woff'),
+    url('https://marcosdevs.github.io/resource/fonts/maicons.svg?c9nlkl#maicons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -2030,7 +2030,7 @@
   content: "\ead7";
 }
 .mai-play:before {
-  content: "\ead8";
+  content: "🔗";
 }
 .mai-play-back:before {
   content: "\ead9";
