@@ -2040,6 +2040,9 @@ pre code {
   .table-responsive-xl > .table-bordered {
     border: 0;
   }
+  .page-section {
+    display: flex;
+   }
 }
 
 .table-responsive {
